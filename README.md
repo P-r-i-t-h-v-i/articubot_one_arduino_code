@@ -1,8 +1,3 @@
-Absolutely — here’s a clean, professional README specifically for the Arduino / ESP32 side of your project.
-This is written in a way that GitHub reviewers, seniors, and recruiters understand immediately.
-
-You can copy-paste this directly into README.md in your Arduino/ESP32 repo.
-
 ESP32 Firmware – ROS 2 Wi-Fi Mobile Robot
 
 This repository contains the ESP32 (Arduino) firmware for a ROS 2–integrated mobile robot.
